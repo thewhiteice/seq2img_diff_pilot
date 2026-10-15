@@ -5,6 +5,6 @@
 **/*.npy
 **/*.bin
 
-data/
-logs/
-results/
+/data/
+/logs/
+/results/
