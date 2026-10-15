@@ -1,0 +1,10 @@
+.zed/
+*/__pycache__
+
+**/*.png
+**/*.npy
+**/*.bin
+
+data/
+logs/
+results/
